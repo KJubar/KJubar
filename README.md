@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KJubar
-- 👀 I’m interested in ...Data Science, Machine learning, OpenCV
+- 👀 I’m interested in ...Data Science, Machine learning, OpenCV, Automatization
 - 🌱 I’m currently learning ...OpenCV
 - 💞️ I’m looking to collaborate on ... Games in OpenCV
 - 📫 How to reach me ...spolmag@seznam.cz
